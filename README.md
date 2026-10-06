@@ -88,8 +88,8 @@ expense tracker/
 
   <img width="49%" alt="登入頁面" src="https://github.com/user-attachments/assets/5cc5a5b1-93f9-4f42-b245-934cd0f01d1a" />
   <img width="49%" alt="儀表板" src="https://github.com/user-attachments/assets/95d7e16d-bb86-42ff-9ec7-7186f503e519" />
-  <img width="49%" alt="我的錢包頁面" src="(https://github.com/user-attachments/assets/b117204b-97a7-42a2-a182-fd12bfc6b007)" />
-  <img width="49%" alt="交易紀錄" src="(https://github.com/user-attachments/assets/07e56a0f-695d-48ed-a6f6-a56822c3189f)" />
+  <img width="49%" alt="我的錢包頁面" src="https://github.com/user-attachments/assets/b117204b-97a7-42a2-a182-fd12bfc6b007" />
+  <img width="49%" alt="交易紀錄" src="https://github.com/user-attachments/assets/07e56a0f-695d-48ed-a6f6-a56822c3189f" />
 </p>
 
 ##  提醒
