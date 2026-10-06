@@ -81,6 +81,9 @@ expense tracker/
 ```
 
 ##  系統畫面
+<img width="951" height="533" alt="image" src="https://github.com/user-attachments/assets/d867fb93-7d03-4064-b5cc-8ac40f006aa1" />
+
+<img width="951" height="536" alt="image" src="https://github.com/user-attachments/assets/a3dfd371-c721-4a87-b3f2-11f0a33f1969" />
 
 <table>
   <tr>
@@ -90,6 +93,8 @@ expense tracker/
   <tr>
     <td align="center" width="50%"><img width="100%" alt="我的錢包" src="https://github.com/user-attachments/assets/b117204b-97a7-42a2-a182-fd12bfc6b007" /><br/><b>我的錢包</b></td>
     <td align="center" width="50%"><img width="100%" alt="交易紀錄" src="https://github.com/user-attachments/assets/07e56a0f-695d-48ed-a6f6-a56822c3189f" /><br/><b>交易紀錄</b></td>
+   <td align="center" width="50%"><img width="100%" alt="預算圖表可新增及瀏覽" src="https://github.com/user-attachments/assets/d867fb93-7d03-4064-b5cc-8ac40f006aa1" /><br/><b>交易紀錄</b></td>
+   <td align="center" width="50%"><img width="100%" alt="搜尋預算頁面" src="https://github.com/user-attachments/assets/a3dfd371-c721-4a87-b3f2-11f0a33f1969" /><br/><b>交易紀錄</b></td>
   </tr>
 </table>
 
