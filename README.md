@@ -82,8 +82,7 @@ expense tracker/
 
 ##  系統畫面
 
-<!-- 只設定 width 即可等比縮放，兩張並排用 49% -->
-<!--
+
 <p align="center">
 
 
@@ -92,7 +91,6 @@ expense tracker/
   <img width="49%" alt="我的錢包頁面" src="[圖片網址](https://github.com/user-attachments/assets/b117204b-97a7-42a2-a182-fd12bfc6b007)" />
   <img width="49%" alt="交易紀錄" src="[圖片網址](https://github.com/user-attachments/assets/07e56a0f-695d-48ed-a6f6-a56822c3189f)" />
 </p>
--->
 
 ##  提醒
 
